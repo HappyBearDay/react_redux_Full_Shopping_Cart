@@ -1,3 +1,4 @@
 # React Shopping Cart
 
-# Step 1: Create React A
+Run mongodb : mongod --dbpath ./data/
+
